@@ -12,3 +12,4 @@
 ### 2. JavaScript
 - [JavaScript의 특징](https://github.com/yyeonggg/Front-end_interview/blob/main/JavaScript/JavaScript%EC%9D%98_%ED%8A%B9%EC%A7%95.md)
 - [식별자 네이밍 규칙에는 어떤 것들이 있나요?](https://github.com/yyeonggg/Front-end_interview/blob/main/JavaScript/%EC%8B%9D%EB%B3%84%EC%9E%90_%EB%84%A4%EC%9D%B4%EB%B0%8D_%EA%B7%9C%EC%B9%99.md)
+- [네이밍 컨벤션에는 어떤 것들이 있나요?](https://github.com/yyeonggg/Front-end_interview/tree/main/JavaScript)
