@@ -14,3 +14,4 @@
 - [식별자 네이밍 규칙에는 어떤 것들이 있나요?](https://github.com/yyeonggg/Front-end_interview/blob/main/JavaScript/%EC%8B%9D%EB%B3%84%EC%9E%90_%EB%84%A4%EC%9D%B4%EB%B0%8D_%EA%B7%9C%EC%B9%99.md)
 - [네이밍 컨벤션에는 어떤 것들이 있나요?](https://github.com/yyeonggg/Front-end_interview/blob/main/JavaScript/%EB%84%A4%EC%9D%B4%EB%B0%8D_%EC%BB%A8%EB%B2%A4%EC%85%98.md)
 - [리터럴이 뭔가요?](https://github.com/yyeonggg/Front-end_interview/blob/main/JavaScript/%EB%A6%AC%ED%84%B0%EB%9F%B4.md)
+- [정적타이핑과 동적타이핑은 무엇인가요?](https://github.com/yyeonggg/Front-end_interview/blob/main/JavaScript/%EC%A0%95%EC%A0%81_%EB%8F%99%EC%A0%81%ED%83%80%EC%9D%B4%ED%95%91.md)
