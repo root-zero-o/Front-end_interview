@@ -8,7 +8,7 @@
 
 ### 1. React
 - [리액트를 사용하는 이유](https://github.com/yyeonggg/Front-end_interview/blob/main/React/%EB%A6%AC%EC%95%A1%ED%8A%B8%EB%A5%BC_%EC%82%AC%EC%9A%A9%ED%95%98%EB%8A%94_%EC%9D%B4%EC%9C%A0.md)
-- virtual Dom 이란?
+- [virtual Dom 이란?](https://github.com/root-zero-o/Front-end_interview/blob/main/React/virtual_DOM.md)
 - 함수 컴포넌트와 클래스 컴포넌트의 차이
 
 ### 2. JavaScript
