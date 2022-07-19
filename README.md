@@ -21,6 +21,9 @@
 - [변수란?](https://github.com/root-zero-o/Front-end_interview/blob/main/JavaScript/%EB%B3%80%EC%88%98/%EB%B3%80%EC%88%98%EB%9E%80%3F.md)
 - [호이스팅](https://github.com/root-zero-o/Front-end_interview/blob/main/JavaScript/%EB%B3%80%EC%88%98/%ED%98%B8%EC%9D%B4%EC%8A%A4%ED%8C%85.md)
 
+```🎈데이터타입```
+- [데이터타입이란?](https://github.com/root-zero-o/Front-end_interview/blob/main/JavaScript/%EB%8D%B0%EC%9D%B4%ED%84%B0%ED%83%80%EC%9E%85/%EB%8D%B0%EC%9D%B4%ED%84%B0%ED%83%80%EC%9E%85%EC%9D%B4%EB%9E%80%3F.md)
+
 - [JavaScript의 특징](https://github.com/yyeonggg/Front-end_interview/blob/main/JavaScript/JavaScript%EC%9D%98_%ED%8A%B9%EC%A7%95.md)
 - [식별자 네이밍 규칙](https://github.com/yyeonggg/Front-end_interview/blob/main/JavaScript/%EC%8B%9D%EB%B3%84%EC%9E%90_%EB%84%A4%EC%9D%B4%EB%B0%8D_%EA%B7%9C%EC%B9%99.md)
 - [네이밍 컨벤션](https://github.com/yyeonggg/Front-end_interview/blob/main/JavaScript/%EB%84%A4%EC%9D%B4%EB%B0%8D_%EC%BB%A8%EB%B2%A4%EC%85%98.md)
