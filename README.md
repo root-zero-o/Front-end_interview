@@ -34,7 +34,7 @@
 - [타입변환](https://github.com/root-zero-o/Front-end_interview/blob/main/JavaScript/%EB%8D%B0%EC%9D%B4%ED%84%B0%ED%83%80%EC%9E%85/%ED%83%80%EC%9E%85%EB%B3%80%ED%99%98.md)
 
 ```🎈객체 리터럴```
-- []()
+- [객체 리터럴이란?](https://github.com/root-zero-o/Front-end_interview/tree/main/JavaScript)
 
 ----
 
