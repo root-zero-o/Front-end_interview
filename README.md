@@ -2,6 +2,7 @@
 프론트엔드 면접도 준비하고, 이론도 공부하는 일석이조 repo🙋‍♀️
 
 #### 질문과 답변 참고자료
+- '모던 자바스크립트 Deep Dive' (이웅모 저)
 - [JUNHEE LEE님의 깃헙 repo](https://github.com/junh0328/prepare_frontend_interview/)
 
 ----
@@ -19,6 +20,7 @@
 - [식별자 네이밍 규칙](https://github.com/yyeonggg/Front-end_interview/blob/main/JavaScript/%EC%8B%9D%EB%B3%84%EC%9E%90_%EB%84%A4%EC%9D%B4%EB%B0%8D_%EA%B7%9C%EC%B9%99.md)
 - [네이밍 컨벤션](https://github.com/yyeonggg/Front-end_interview/blob/main/JavaScript/%EB%84%A4%EC%9D%B4%EB%B0%8D_%EC%BB%A8%EB%B2%A4%EC%85%98.md)
 - [리터럴과 표현식](https://github.com/root-zero-o/Front-end_interview/blob/main/JavaScript/%EB%A6%AC%ED%84%B0%EB%9F%B4%EA%B3%BC_%ED%91%9C%ED%98%84%EC%8B%9D.md)
+- [객체 리터럴이란?](https://github.com/root-zero-o/Front-end_interview/blob/main/JavaScript/object-literal.md)
 
 ```🎈프로그래밍```
 - [프로그래밍(programming)이란 ?](https://github.com/root-zero-o/Front-end_interview/blob/main/JavaScript/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D%EC%9D%B4%EB%9E%80%3F.md)
@@ -33,10 +35,6 @@
 - [정적타이핑과 동적타이핑은 무엇인가요?](https://github.com/yyeonggg/Front-end_interview/blob/main/JavaScript/%EC%A0%95%EC%A0%81_%EB%8F%99%EC%A0%81%ED%83%80%EC%9D%B4%ED%95%91.md)
 - [타입변환](https://github.com/root-zero-o/Front-end_interview/blob/main/JavaScript/%EB%8D%B0%EC%9D%B4%ED%84%B0%ED%83%80%EC%9E%85/%ED%83%80%EC%9E%85%EB%B3%80%ED%99%98.md)
 
-```🎈객체 리터럴```
-- [객체 리터럴이란?](https://github.com/root-zero-o/Front-end_interview/tree/main/JavaScript)
-
-----
 
 
 
