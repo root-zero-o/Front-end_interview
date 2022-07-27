@@ -34,6 +34,7 @@
 - [데이터타입이란?](https://github.com/root-zero-o/Front-end_interview/blob/main/JavaScript/%EB%8D%B0%EC%9D%B4%ED%84%B0%ED%83%80%EC%9E%85/%EB%8D%B0%EC%9D%B4%ED%84%B0%ED%83%80%EC%9E%85%EC%9D%B4%EB%9E%80%3F.md)
 - [정적타이핑과 동적타이핑은 무엇인가요?](https://github.com/yyeonggg/Front-end_interview/blob/main/JavaScript/%EC%A0%95%EC%A0%81_%EB%8F%99%EC%A0%81%ED%83%80%EC%9D%B4%ED%95%91.md)
 - [타입변환](https://github.com/root-zero-o/Front-end_interview/blob/main/JavaScript/%EB%8D%B0%EC%9D%B4%ED%84%B0%ED%83%80%EC%9E%85/%ED%83%80%EC%9E%85%EB%B3%80%ED%99%98.md)
+- [원시 타입 & 참조 타입](https://github.com/root-zero-o/Front-end_interview/blob/main/JavaScript/%EB%8D%B0%EC%9D%B4%ED%84%B0%ED%83%80%EC%9E%85/primitive_object_type.md)
 
 
 
