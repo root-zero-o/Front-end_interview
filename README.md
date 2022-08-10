@@ -37,6 +37,7 @@
 - [원시 타입 & 참조 타입](https://github.com/root-zero-o/Front-end_interview/blob/main/JavaScript/%EB%8D%B0%EC%9D%B4%ED%84%B0%ED%83%80%EC%9E%85/primitive_object_type.md)
 - [얕은 복사 & 깊은 복사](https://github.com/root-zero-o/Front-end_interview/blob/main/JavaScript/%EB%8D%B0%EC%9D%B4%ED%84%B0%ED%83%80%EC%9E%85/shallow_deep_copy.md)
 
-
+```🎈함수```
+- [즉시 실행 함수](https://github.com/root-zero-o/Front-end_interview/blob/main/JavaScript/%ED%95%A8%EC%88%98/%EC%A6%89%EC%8B%9C%EC%8B%A4%ED%96%89%ED%95%A8%EC%88%98.md)
 
 
