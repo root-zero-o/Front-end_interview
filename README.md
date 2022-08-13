@@ -42,4 +42,4 @@
 
 ```🎈스코프```
 - [스코프](https://github.com/root-zero-o/Front-end_interview/blob/main/JavaScript/scope/%EC%8A%A4%EC%BD%94%ED%94%84.md)
-
+- [전역변수의 문제점](https://github.com/root-zero-o/Front-end_interview/blob/main/JavaScript/scope/%EC%A0%84%EC%97%AD%20%EB%B3%80%EC%88%98%EC%9D%98%20%EB%AC%B8%EC%A0%9C%EC%A0%90.md)
