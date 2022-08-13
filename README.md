@@ -40,4 +40,6 @@
 ```🎈함수```
 - [즉시 실행 함수](https://github.com/root-zero-o/Front-end_interview/blob/main/JavaScript/%ED%95%A8%EC%88%98/%EC%A6%89%EC%8B%9C%EC%8B%A4%ED%96%89%ED%95%A8%EC%88%98.md)
 
+```🎈스코프```
+- [스코프](https://github.com/root-zero-o/Front-end_interview/blob/main/JavaScript/scope.md)
 
